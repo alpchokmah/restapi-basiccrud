@@ -1,0 +1,27 @@
+[
+  {
+    "id": "3886790f-fa41-4a1b-8eba-744da8f4a9ec",
+    "color": "Red",
+    "animal": "Fox"
+  },
+  {
+    "id": "98d99c77-1c82-4ba0-b90f-33060132c9ea",
+    "color": "Blue",
+    "animal": "Bird"
+  },
+  {
+    "id": "5ce9a23a-9d05-4494-97a9-49b4997a02f7",
+    "color": "Black",
+    "animal": "Panther"
+  },
+  {
+    "id": "afbb82ef-fbe2-4cea-8215-7ad58c17ce80",
+    "color": "White",
+    "animal": "Dove"
+  },
+  {
+    "id": "0a97eb07-792e-4368-8a68-4e90b9080d17",
+    "color": "Green",
+    "animal": "Parrot"
+  }
+]
